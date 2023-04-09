@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/JuceLibraryCode
+/Builds/VisualStudio2022/x64/Debug
+/Builds/VisualStudio2022
